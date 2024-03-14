@@ -1,6 +1,6 @@
 <h1 align="center" >DecryptTools综合解密</h1>
 
-<h3 align="center" >一款针对各种加解密综合利用后渗透工具</h3>
+<h3 align="center" >一款针对加解密综合利用后渗透工具</h3>
 
 
 
