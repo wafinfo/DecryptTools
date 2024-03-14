@@ -78,11 +78,19 @@ Druid
 ## 参考文章
 
 https://www.cnblogs.com/kexianting/p/11689289.html
+
 https://github.com/jas502n/spring-ENC
+
 https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor/
+
 https://github.com/Rvn0xsy/PassDecode-jar
+
 https://www.hedysx.com/2807.html
+
 https://github.com/zhutougg/LandrayDES
+
 https://cloud.tencent.com/developer/article/2204689
+
 https://github.com/TideSec/Decrypt_Weblogic_Password
+
 https://github.com/baogod404/HikvisionDecode
