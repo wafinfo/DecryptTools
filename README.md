@@ -22,34 +22,35 @@
 
 ## 工具展示
 
-- ## **支持22种加解密（部分未完成）**
+- ## **支持22种加解密+密码查询功能**
 
-```
-万户OA
-金蝶EAS
-新华三IMC
-蓝凌OA
-Weblogic
-金蝶云星空
-致远OA
-H3C CAS
-宏景ERP
-湖南强智
-金和jc6
-金和C6
-华天动力
-亿赛通
-帆软报表
-用友NC
-海康威视IVMS 8700
-海康威视IP Camera
-金盘 OPAC
-JBOSS
-SpringEnc
-Druid
-```
+* 万户OA
+* 用友NC
 
-- ## **工具加解密**
+* 金蝶EAS
+
+* 蓝凌OA
+* 致远OA
+* 宏景ERP
+* 湖南强智
+* ~~金和jc6~~    瑞友天翼
+* ~~金和C6~~     Navicat
+* ~~华天动力~~  FinalShell
+* 亿赛通
+* 帆软报表
+* H3C CAS
+* Weblogic
+* 金蝶云星空   
+* 新华三IMC
+* 金盘 OPAC
+* 海康威视IVMS 8700
+* 海康威视IP Camera
+* JBOSS
+* SpringEnc
+* Druid
+* 密码查询功能
+
+## 🕳️ **工具加解密**
 
 ![image-20240314102549407](README/image-20240314102549407.png)
 
@@ -63,7 +64,15 @@ Druid
 
 ![image-20240314103701954](README/image-20240314103701954.png)
 
-- ## **备忘录**
+![image-20240319204146156](README/image-20240319204146156.png)
+
+![image-20240319204112679](README/image-20240319204112679.png)
+
+
+
+![image-20240319204054241](README/image-20240319204054241.png)
+
+## 🕳️ **备忘录**
 
 保存的内容均在同级目录`config.properties`文件中
 
@@ -94,3 +103,9 @@ https://cloud.tencent.com/developer/article/2204689
 https://github.com/TideSec/Decrypt_Weblogic_Password
 
 https://github.com/baogod404/HikvisionDecode
+
+https://github.com/TalentKrico/navicat_password_decrypt
+
+https://github.com/jas502n/FinalShellDecodePass/blob/main/FinalShellDecodePass.java
+
+https://github.com/BaizeSec/bylibrary/blob/main/docs/%E9%80%9F%E6%9F%A5%E8%A1%A8/%E5%B8%B8%E8%A7%81%E4%BA%A7%E5%93%81%E5%BC%B1%E5%8F%A3%E4%BB%A4.md
