@@ -51,7 +51,24 @@
 
 ## **更新历程**
 
+**2024/7/1 DecryptTools综合解密V2.4**
+
+* 修复 Windows打开DecryptTools工具全屏问题。
+* 增加 致远OA  全文件解密功能。
+* 增加 致远OA  /2.4数据库密码解密功能。
+* 更新 致远OA  配置文件描述。
+* 删除 用友用户 密码爆破功能。
+* 增加 用友NC65 密码加密功能。
+* 增加 用友YonBip 密码加密功能。
+* 增加 用友NCCLOUD 密码加密功能。
+* 更新 用友 配置文件信息添加更详细后渗透利用方式。
+* 更新 海康威视综合安防平台(iSecure)  配置文件描述，添加更细节化后渗透利用。
+* 更改 名SpingENC为Jasypt并添加两种解密。
+* 更新 Jasypt 配置文件信息描述。
+* 调整UI。
+
 **2024/4/25 DecryptTools综合解密V2.3**
+
 * 修复 金蝶 K3 Cloud云星空 数据库加解密问题。
 * 增加 金蝶 K3 Cloud云星空 数据库用户加密替换。
 * 修复 宏景ERP 加解密问题。
@@ -125,6 +142,10 @@ https://github.com/TideSec/Decrypt_Weblogic_Password
 https://github.com/baogod404/HikvisionDecode
 
 https://github.com/TalentKrico/navicat_password_decrypt
+
+https://github.com/NULLB8/seeyonDecrypt
+
+https://www.t00ls.com/viewthread.php?tid=70588
 
 https://github.com/jas502n/FinalShellDecodePass/blob/main/FinalShellDecodePass.java
 
